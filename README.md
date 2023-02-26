@@ -13,15 +13,6 @@
 </body>
 </html>
 
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>NFT Project</title>
-  </head>
-  <body>
-    <h1>Welcome to the NFT Project!</h1>
     <button type="button" onclick="connectWallet()">Connect Wallet</button>
     <form>
       <label for="tokenId">Token ID:</label>

@@ -10,14 +10,7 @@
 </html>
 <img src="pixelfrens_twitter_header.png" alt="PIXELFRENS.github.io" width="2000" height="450">
 
-
-<button type="button" onclick="connectWallet()">Connect Wallet</button>
-    <form>
-      <label for="tokenId">Token ID:</label>
-      <input type="text" id="tokenId" name="tokenId"><br><br>
-      <button type="button" onclick="mintNFT()">Mint NFT</button>
     
-
 <html>
    <head>
       <title>Connect to crypto wallet</title>

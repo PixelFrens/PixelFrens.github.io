@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <h2>Pixel Frens NFT</h2>
+    <h2>Pixel Frens NFT Collection</h2>
   </head>
   <body>
     <h1>Welcome to Pixel Frens!</h1>

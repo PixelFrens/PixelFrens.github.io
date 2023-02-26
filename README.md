@@ -8,7 +8,7 @@
     <h1>Welcome to Pixel Frens!</h1>
   </body>
 </html>
-<img src="pixelfrens_twitter_header.png" alt="PIXELFRENS.github.io" width="1675" height="500">
+<img src="pixelfrens_twitter_header.png" alt="PIXELFRENS.github.io" width="1700" height="500">
 
 
 <button type="button" onclick="connectWallet()">Connect Wallet</button>

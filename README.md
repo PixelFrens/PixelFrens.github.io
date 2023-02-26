@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Pixel Frens</title>
+    <h2>Pixel Frens</h2>
   </head>
   <body>
     <h1>Welcome to Pixel Frens!</h1>
